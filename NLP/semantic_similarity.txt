@@ -1,1 +1,3 @@
-https://github.com/karldudley/week9/tree/main/NLP
+task1 - https://github.com/karldudley/week9/tree/main/NLP
+
+task2 - 
